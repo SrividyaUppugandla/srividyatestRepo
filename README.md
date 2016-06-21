@@ -25,6 +25,8 @@
   ¦      ¦   +-- index.jade
   ¦      ¦   +-- index_With_PreHook.jade
   +-- package.json
+  
+```
 
 File | Description
 :-- | :-- 
