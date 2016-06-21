@@ -2,8 +2,6 @@
 
 ## Developer can leverage this template application code, modify according to their business functionality and can push to PaaS platform.
 
-### Template application files
-
 ### Client File Structure
   ```
   +-- client
@@ -27,6 +25,8 @@
   +-- package.json
   
 ```
+
+### Template application files
 
 File | Description
 :-- | :-- 
